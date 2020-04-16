@@ -1,2 +1,2 @@
 # pysoher
-Random bits of working and example python code for science and GUI applications
+Random bits of Python working code and code examples for science, file I/O and GUI applications. 
