@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-This performs a simple test of the HLSVDPROPY package to see that it's working
+This performs a simple test of the HLSVDPROPY module to see that it's working
 and producing sane results. It uses stored SVS FID data as input and pre-
 calculated singular values, and frequencies, dampings, amplitudes and phases
 data as comparisons.
